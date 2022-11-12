@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Abstract painting</string>
+    <string name="Box_one">Box  1</string>
+    <string name="boxthree">Box  3</string>
+    <string name="boxtwo">Box  2</string>
+    <string name="boxfour">Box  4</string>
+    <string name="boxfive">Box  5</string>
+    <string name="how_to_paly">How to Play</string>
+    <string name="tap_the_button">Tap the Button ! See the Magic!!</string>
+    <string name="RedB">Red</string>
+    <string name="YeeloB">Yellow</string>
+    <string name="hara">Hara</string>
+</resources>
